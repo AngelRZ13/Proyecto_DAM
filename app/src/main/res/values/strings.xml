@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BurguerAppCiber</string>
+
+
+    <string name="pizza_menu_top_menu_title">Menu</string>
+    <string name="pizza_menu_top_menu_see_all_title">Ver Todos</string>
+    <string name="pizza_menu_hot_promo_title">Destacado</string>
+    <string name="pizza_menu_hot_promo_name">Hamburguesa de queso</string>
+    <string name="pizza_menu_hot_promo_category">Hamburguesa</string>
+    <string name="pizza_menu_hot_promo_discount_price">$ 7.98</string>
+
+
+    <string name="labelUsuario">Ingresa Usuario</string>
+    <string name="labelContrasena">Ingresa Contraseña</string>
+
+    <string name="labelNombre">Ingrese Nombre</string>
+    <string name="labelApellido">Ingrese Apellido</string>
+    <string name="labelMas">Masculino</string>
+    <string name="labelFem">Femenino</string>
+
+    //admin - comida
+    <string name="labelNombreA">Ingrese Nombre</string>
+    <string name="labelPrecio">Ingrese Precio</string>
+    <string name="labelCategoria">[Seleccione Categoria]</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
